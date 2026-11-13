@@ -1,0 +1,400 @@
+{
+ "version": 1,
+ "stories": [
+  {
+   "id": "fox_truth",
+   "title": "The Fox Who Told the Truth",
+   "subtitle": "A J Fox original \u00b7 Love Field to the White House",
+   "color": "0xFFFF8A3D",
+   "length": "7 min",
+   "after": "Houston night",
+   "files": {
+    "voice": {
+     "path": "stories/fox_truth_voice.ogg",
+     "sha256": "df6095597164805ae6a50e7931532b5a717762e82d6565a873ed414c3172b5ca",
+     "size": 2650707
+    },
+    "fx": {
+     "path": "stories/fox_truth_fx.ogg",
+     "sha256": "ac48ac9e076a269b782b5e6a80d102afc2b9173d87714b96080fe73c1836b652",
+     "size": 4409329
+    },
+    "music": {
+     "path": "stories/fox_truth_music.ogg",
+     "sha256": "533170d41143daa19cad61eefd5e5d0ff2beaabf87f12824445c9eca19844e8e",
+     "size": 7790511
+    },
+    "ambience": {
+     "path": "stories/fox_truth_ambience.ogg",
+     "sha256": "6b4e45c1c0849d9bee49f86eee9a411a07039fe5bd963ad508f1fea3046483b0",
+     "size": 1342249
+    },
+    "meta": {
+     "path": "stories/fox_truth.json",
+     "sha256": "e9be7a9efdc05a2f6918df80efc27ec4cc371ab0adbf1a9684b0e2bc4c02c6dc",
+     "size": 257
+    }
+   }
+  },
+  {
+   "id": "night_train",
+   "title": "The Night Train",
+   "subtitle": "Train \u00b7 rain \u00b7 distant horn",
+   "color": "0xFFFFD95A",
+   "length": "7 min",
+   "after": "train",
+   "files": {
+    "voice": {
+     "path": "stories/night_train_voice.ogg",
+     "sha256": "2cf3b4239c7dea925ca737a8f77473e0e355dd6e214bffead8f63f8290b7de0f",
+     "size": 2685999
+    },
+    "fx": {
+     "path": "stories/night_train_fx.ogg",
+     "sha256": "521e0bc15f8fd018ba5147bb21ba585d14684d48b51de3f40adc60f77f3ad79a",
+     "size": 3798985
+    },
+    "music": {
+     "path": "stories/night_train_music.ogg",
+     "sha256": "79ec2775fef5ab7e895e0b91ab68c70af9fc7a0dd0a8f5f5992e4e811b7e6c81",
+     "size": 7161912
+    },
+    "ambience": {
+     "path": "stories/night_train_ambience.ogg",
+     "sha256": "43bd5e168762ab1adeda5964e9afaa8747437e6ebac210a0cbc634b9869296a5",
+     "size": 1260676
+    },
+    "meta": {
+     "path": "stories/night_train.json",
+     "sha256": "2ca91f9b1e1ede622ec6cf0f5ff2475028419e02e8a50550717244b9608f5db0",
+     "size": 264
+    }
+   }
+  },
+  {
+   "id": "lighthouse",
+   "title": "The Lighthouse",
+   "subtitle": "Waves \u00b7 wind \u00b7 foghorn",
+   "color": "0xFF9FD8FF",
+   "length": "6 min",
+   "after": "waves",
+   "files": {
+    "voice": {
+     "path": "stories/lighthouse_voice.ogg",
+     "sha256": "bb71874a92482a0a875cf42b386c0a7eab5ac25d06e7fa7b897c213415c2ecbf",
+     "size": 2307547
+    },
+    "fx": {
+     "path": "stories/lighthouse_fx.ogg",
+     "sha256": "bd40647cb30c6a010cec7d2d14f23bac92abf290d26d57b41e9b83139cb9693c",
+     "size": 3583609
+    },
+    "music": {
+     "path": "stories/lighthouse_music.ogg",
+     "sha256": "bfaad9399a15d7afcf6195c8c995a321f92950c391587bb7ede4d70ac79dcd24",
+     "size": 6333069
+    },
+    "ambience": {
+     "path": "stories/lighthouse_ambience.ogg",
+     "sha256": "cd42d95970384c4bdf6829cfc8ff8973a7aec630f35688b8a0567b9b7d788d37",
+     "size": 1203335
+    },
+    "meta": {
+     "path": "stories/lighthouse.json",
+     "sha256": "a326c4342694a5e31c1626e1aaca93a5b4753727415be6b14d8b7dbb173c2071",
+     "size": 261
+    }
+   }
+  },
+  {
+   "id": "snow_cabin",
+   "title": "The Snow Cabin",
+   "subtitle": "Crackling fire \u00b7 mountain wind",
+   "color": "0xFFFFB37A",
+   "length": "5 min",
+   "after": "fire",
+   "files": {
+    "voice": {
+     "path": "stories/snow_cabin_voice.ogg",
+     "sha256": "d106e42b708d6ae7eea85022427961bed9203bec39196caeff27a2df93a20285",
+     "size": 2214743
+    },
+    "fx": {
+     "path": "stories/snow_cabin_fx.ogg",
+     "sha256": "0f630b55a0e07c84c6ee3c07aedea4c9b589dad0defb10f4766cc7d41b565aef",
+     "size": 4424606
+    },
+    "music": {
+     "path": "stories/snow_cabin_music.ogg",
+     "sha256": "c95dd9cafdaed10c5acb027e111bc514a9644be8dfff7f7f0a63fbe3221901aa",
+     "size": 5696502
+    },
+    "ambience": {
+     "path": "stories/snow_cabin_ambience.ogg",
+     "sha256": "058385772880b17f268aa508c3d46d85a3ccb3b3985c897dc73dc20420d94c76",
+     "size": 1598539
+    },
+    "meta": {
+     "path": "stories/snow_cabin.json",
+     "sha256": "33ba5725f2ed72d078ccaf05db55c61e78828d8bcc782658959159b8cf66ea4c",
+     "size": 261
+    }
+   }
+  },
+  {
+   "id": "porch_storm",
+   "title": "The Summer Storm",
+   "subtitle": "Crickets \u00b7 porch rain \u00b7 thunder",
+   "color": "0xFFB9A4FF",
+   "length": "5 min",
+   "after": "rain",
+   "files": {
+    "voice": {
+     "path": "stories/porch_storm_voice.ogg",
+     "sha256": "e4e44296e89497201033c4bc6cc2b6777ac7c60b0dba10634409c57a340f902d",
+     "size": 2137344
+    },
+    "fx": {
+     "path": "stories/porch_storm_fx.ogg",
+     "sha256": "09fe2de743f86a0d810cecee90e8f0fd35aaf0a06500c780e2b08917cf441ea9",
+     "size": 3596410
+    },
+    "music": {
+     "path": "stories/porch_storm_music.ogg",
+     "sha256": "10df20f67ecd37d38a3d0a84382779bcdf0d4002339a89b52cf5af8e343c070a",
+     "size": 5939723
+    },
+    "ambience": {
+     "path": "stories/porch_storm_ambience.ogg",
+     "sha256": "93fe9a030635661723c8fe33a0dd139a314bb5c7ab0cd393b0433b4b81a774d8",
+     "size": 1285218
+    },
+    "meta": {
+     "path": "stories/porch_storm.json",
+     "sha256": "e0157a4af9b546015c2ec0036255ef762feb095719423fcadd51ef4751e6d04e",
+     "size": 264
+    }
+   }
+  },
+  {
+   "id": "rowboat",
+   "title": "The Rowboat",
+   "subtitle": "Lake water \u00b7 night frogs",
+   "color": "0xFF8FE3B0",
+   "length": "5 min",
+   "after": "lake",
+   "files": {
+    "voice": {
+     "path": "stories/rowboat_voice.ogg",
+     "sha256": "d6691c736ff35053f2d209163b25a1a9307db2f3d28162c76824831b204eca26",
+     "size": 2059905
+    },
+    "fx": {
+     "path": "stories/rowboat_fx.ogg",
+     "sha256": "6aeeba89d8cfcfdc3c20ae7fef559d1c1c28c00f253b6d712b074b3292bb05ca",
+     "size": 3499460
+    },
+    "music": {
+     "path": "stories/rowboat_music.ogg",
+     "sha256": "14d1ee8af2216792438456fb2de26df91aa6d4618094d62bd5b8f727ba0716f9",
+     "size": 5622148
+    },
+    "ambience": {
+     "path": "stories/rowboat_ambience.ogg",
+     "sha256": "8ed8b35474a3da031e82623e36bde20c2c68becb6ef5aee4fca7486ed9283621",
+     "size": 1422588
+    },
+    "meta": {
+     "path": "stories/rowboat.json",
+     "sha256": "932cb9c1aa2508a6ac8bc60824af97bd16e72c613f204395e2cbf74eaf110ace",
+     "size": 252
+    }
+   }
+  },
+  {
+   "id": "rooftop_rain",
+   "title": "The Rooftop Room",
+   "subtitle": "City rain \u00b7 far-off thunder",
+   "color": "0xFF9FD8FF",
+   "length": "5 min",
+   "after": "rain",
+   "files": {
+    "voice": {
+     "path": "stories/rooftop_rain_voice.ogg",
+     "sha256": "7a8a6dc5391b0ec35f688dcba57076005ca0cc259e86034699b5579809949c3a",
+     "size": 2073889
+    },
+    "fx": {
+     "path": "stories/rooftop_rain_fx.ogg",
+     "sha256": "caf94365263e1a75b48269372ca548435007785b584ca48b91dc7742915758d6",
+     "size": 3236091
+    },
+    "music": {
+     "path": "stories/rooftop_rain_music.ogg",
+     "sha256": "0db405953b7eb85e2fec4ae65502710fd13bfb06f9db12c185c7206a6dba7cd2",
+     "size": 5490671
+    },
+    "ambience": {
+     "path": "stories/rooftop_rain_ambience.ogg",
+     "sha256": "0e12555efa0081afac96d2f11d37724a53e860f07896b5f24bdb84f1f88e22fe",
+     "size": 1208188
+    },
+    "meta": {
+     "path": "stories/rooftop_rain.json",
+     "sha256": "8e7091bc7df3f964f925eca7977c76b92ec9b28eeb40af733edbf3ae33c23920",
+     "size": 267
+    }
+   }
+  },
+  {
+   "id": "night_bus",
+   "title": "The Night Bus",
+   "subtitle": "Engine hum \u00b7 empty city streets",
+   "color": "0xFFFFD95A",
+   "length": "5 min",
+   "after": "bus",
+   "files": {
+    "voice": {
+     "path": "stories/night_bus_voice.ogg",
+     "sha256": "84bb45fe45edfcb320545162e34f88b419a5c2edeb6fa5907e168236c123187d",
+     "size": 2053786
+    },
+    "fx": {
+     "path": "stories/night_bus_fx.ogg",
+     "sha256": "282aff2ae4ab0dbcc91d253316139dd417dc7f0cdd83aa81844581bf5f55deb5",
+     "size": 3292902
+    },
+    "music": {
+     "path": "stories/night_bus_music.ogg",
+     "sha256": "c45170cadc19a8710c9fb50b1bc058993dd3cfe7466eb2d28b300c97c93b4167",
+     "size": 5522163
+    },
+    "ambience": {
+     "path": "stories/night_bus_ambience.ogg",
+     "sha256": "2b86054984009bc086e03f4c1906bbc83af413a14c9cd9ebaa9769ba8ca8ab6c",
+     "size": 1263310
+    },
+    "meta": {
+     "path": "stories/night_bus.json",
+     "sha256": "055cbe9e61a65b884a1b61a980695331a43d5055bd89a514d47ac249c8d51455",
+     "size": 258
+    }
+   }
+  },
+  {
+   "id": "treehouse",
+   "title": "The Treehouse",
+   "subtitle": "Forest insects \u00b7 an owl",
+   "color": "0xFF8FE3B0",
+   "length": "5 min",
+   "after": "forest",
+   "files": {
+    "voice": {
+     "path": "stories/treehouse_voice.ogg",
+     "sha256": "3106d438d6799eb15e222fc40c2c5d464ccccc2d72e7eaf031e1d9465d10d022",
+     "size": 1932376
+    },
+    "fx": {
+     "path": "stories/treehouse_fx.ogg",
+     "sha256": "813b0ca0fb62473eae7e19d85efc0b5ae67d5a7b79fefae619620f76e6fca1e9",
+     "size": 3421463
+    },
+    "music": {
+     "path": "stories/treehouse_music.ogg",
+     "sha256": "4bfbcb4385b0a809c7a210dcb523e89d85df8d479c6d52947c8c71c35696f840",
+     "size": 5343920
+    },
+    "ambience": {
+     "path": "stories/treehouse_ambience.ogg",
+     "sha256": "618cec37cf5e46443d2f287ddfc2eafd57a153180855390d573beeebc22ae5ef",
+     "size": 1342190
+    },
+    "meta": {
+     "path": "stories/treehouse.json",
+     "sha256": "28349a8a54a62c182f96f95867c9fe874dac6b47a7797fa7f4d44d5d255ce9dd",
+     "size": 258
+    }
+   }
+  },
+  {
+   "id": "mountain_temple",
+   "title": "The Mountain Temple",
+   "subtitle": "Stream \u00b7 wind chimes \u00b7 temple bell",
+   "color": "0xFFB9A4FF",
+   "length": "5 min",
+   "after": "stream",
+   "files": {
+    "voice": {
+     "path": "stories/mountain_temple_voice.ogg",
+     "sha256": "81091e067105af66d68cf6b31defba5cb0ebc0e864bf12cdcfd3c7e7b60d83dd",
+     "size": 1894238
+    },
+    "fx": {
+     "path": "stories/mountain_temple_fx.ogg",
+     "sha256": "a3a0c2b3d8960d7752b530e7a1ffe2fc8b822e86f8a85eeaecd78bcbb52a2878",
+     "size": 3393583
+    },
+    "music": {
+     "path": "stories/mountain_temple_music.ogg",
+     "sha256": "9a81707567da06115b1cfc70f98e0f617d6d2b2619a1d1c983a7d481cf5d07b4",
+     "size": 5429383
+    },
+    "ambience": {
+     "path": "stories/mountain_temple_ambience.ogg",
+     "sha256": "0d08b6c83b36dd3d73486b3eea0f6d0f502a8880645b9dc128e8e4d0946eef22",
+     "size": 1324385
+    },
+    "meta": {
+     "path": "stories/mountain_temple.json",
+     "sha256": "a22e04e1a7ebe0d64260f964aec806986b5daddd6e490ca9c24059410b125dfb",
+     "size": 275
+    }
+   }
+  },
+  {
+   "id": "desert_campfire",
+   "title": "The Desert Campfire",
+   "subtitle": "Desert wind \u00b7 crackling fire",
+   "color": "0xFFFFB37A",
+   "length": "5 min",
+   "after": "fire",
+   "files": {
+    "voice": {
+     "path": "stories/desert_campfire_voice.ogg",
+     "sha256": "731640ec634f473b78e7d78237ecff9ee1ca304886904a2fe850b6f509186a54",
+     "size": 1880255
+    },
+    "fx": {
+     "path": "stories/desert_campfire_fx.ogg",
+     "sha256": "66e2c08fb81836609942e3a82a290193323b8bbff59e98723cc6f8ef0f00db80",
+     "size": 3306209
+    },
+    "music": {
+     "path": "stories/desert_campfire_music.ogg",
+     "sha256": "bd184f03300582a83a23fcd6ebe1ebb3fc8446e8bf45552f7807a6baf08e6735",
+     "size": 4957383
+    },
+    "ambience": {
+     "path": "stories/desert_campfire_ambience.ogg",
+     "sha256": "0f799ba9ebf4f286f3529ff3b8ae87ae4d5ec4b818ce4a20582f3d80fb05bf9c",
+     "size": 1409149
+    },
+    "meta": {
+     "path": "stories/desert_campfire.json",
+     "sha256": "14ec059322debb996ecd79e5c7eae559640b191246cd2e767fc7e17353a4d286",
+     "size": 276
+    }
+   }
+  }
+ ],
+ "app": {
+  "versionCode": 4,
+  "versionName": "2.0",
+  "notes": "Every story has its own score, a new narrator, an opening animation and motion everywhere.",
+  "apk": {
+   "path": "app/SnoozeFox.apk",
+   "sha256": "da7f4d228b12884a49c9386873fdd125fe1565b0be3daf30aeabb7a58bfb2c50",
+   "size": 32489409
+  }
+ }
+}
