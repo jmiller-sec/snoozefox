@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "stories": [
   {
    "id": "fox_truth",
@@ -388,13 +388,13 @@
   }
  ],
  "app": {
-  "versionCode": 4,
-  "versionName": "2.0",
-  "notes": "Every story has its own score, a new narrator, an opening animation and motion everywhere.",
+  "versionCode": 5,
+  "versionName": "2.1",
+  "notes": "New Sleep tab: your Galaxy Watch sleep, scored by Fox.",
   "apk": {
    "path": "app/SnoozeFox.apk",
-   "sha256": "da7f4d228b12884a49c9386873fdd125fe1565b0be3daf30aeabb7a58bfb2c50",
-   "size": 32489409
+   "sha256": "b753ad36d4661d277d8a351574a72b344924767e362eae8448b8cda23b7582f4",
+   "size": 33347195
   }
  }
 }
