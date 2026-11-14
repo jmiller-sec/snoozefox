@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "stories": [
   {
    "id": "fox_truth",
@@ -388,13 +388,13 @@
   }
  ],
  "app": {
-  "versionCode": 5,
-  "versionName": "2.1",
-  "notes": "New Sleep tab: your Galaxy Watch sleep, scored by Fox.",
+  "versionCode": 6,
+  "versionName": "2.2",
+  "notes": "Sleep tab removed (Cloud Roadmap handles sleep now).",
   "apk": {
    "path": "app/SnoozeFox.apk",
-   "sha256": "b753ad36d4661d277d8a351574a72b344924767e362eae8448b8cda23b7582f4",
-   "size": 33347195
+   "sha256": "07c9a048c3975658620478c89f9d112eb8dc0a345509ddd1e618ff600d13dc6b",
+   "size": 32489409
   }
  }
 }
